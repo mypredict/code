@@ -3,7 +3,7 @@
   columns 列
   组成的矩形格子
   只能向右或向下
-  从 [1, 1] => [columns, rows] 共有多少种路线
+  从 [0, 0] => [columns, rows] 共有多少种路线
 */
 
 const rows = 7;
