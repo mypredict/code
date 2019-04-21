@@ -1,5 +1,5 @@
 // 快速排序
-const arr = [3,4,2,6,2,8,5,0,9,1];
+const arr = [3,4,2,6,2,8,5,0,9,1,2,2,2,2];
 function quickSort (arr) {
   const sort = (baseValue, leftIndex, rightIndex) => {
     if (leftIndex >= rightIndex) {
